@@ -1,4 +1,10 @@
-/*buzzer GND = arduino GND
+/*
+ * Code: Hasib AL Hasan, COO, Cybernetics Robo Limited
+ * Supervised by: Syed Razwanul Haque Nabil, CTO, Cybernetics Robo Limited
+ * https://www.cyberneticsroboacademy.com
+ * https://www.github.com/Nabilphysics
+ *
+ * buzzer GND = arduino GND
  * buzzer 5v = arduino A2
  * loop pin 1 = A1
  * loop pin 2 = A4
